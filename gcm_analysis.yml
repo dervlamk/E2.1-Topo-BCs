@@ -1,0 +1,19 @@
+name: gcm_analysis 
+channels: 
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - ipykernel 
+  - numpy 
+  - xarray
+  - netCDF4
+  - cartopy 
+  - matplotlib
+  - nco 
+  - cdo
+  - metpy
+  - dask
+  - cmocean
+  - seaborn
+
