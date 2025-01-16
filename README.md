@@ -2,11 +2,11 @@
 
 by D. Meegan-Kumar1, G. Elsaesser2,3, D. S. Battisti4, C. M. Colose2, J. Wu2,5, J. S. Sexton1, & J. W. Baldwin1,6
 
-1Department of Earth System Science, University of California Irvine, Irvine, California, USA
-2Automatic Integra, NASA Goddard Institute for Space Studies, New York, New York
-3Department of Applied Physics and Applied Mathematics, Columbia University, New York, New York
-4Department of Atmospheric Science, University of Washington, Seattle, Washington, USA
-5Center for Climate Systems Research, The Earth Institute, Columbia University, New York, New York
+1Department of Earth System Science, University of California Irvine, Irvine, California, USA<br>
+2Automatic Integra, NASA Goddard Institute for Space Studies, New York, New York<br>
+3Department of Applied Physics and Applied Mathematics, Columbia University, New York, New York<br>
+4Department of Atmospheric Science, University of Washington, Seattle, Washington, USA<br>
+5Center for Climate Systems Research, The Earth Institute, Columbia University, New York, New York<br>
 6Lamont-Doherty Earth Observatory, Columbia University, Palisades, New York
 
 Status: _This paper has been submitted for publication at Journal of Climate. <SUPPORTING_INFORMATION> is also available. We welcome any comments, questions, or suggestions. Please email your feedback to (dervlak@uci.edu)._
