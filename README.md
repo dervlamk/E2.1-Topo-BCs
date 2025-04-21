@@ -18,23 +18,15 @@ Abstract: Overly-smooth topography in general circulation models (GCMs) underest
 ```
 ├── README.md          <- Top-level README for developers using this project
 │
-├── data/
-│   ├── external/      <- Data from third party sources
-│   ├── interim/       <- Intermediate data that has been transformed
-│   ├── processed/     <- Final analysis-ready data
-│   └── raw/           <- Original immutable data
-│
-├── figs/              <- Figures and graphics generated 
-│
 ├── notebooks/         <- Jupyter notebooks that call functions from scripts/
 │
 ├── scripts/           <- Source code for use in this project (e.g., scripts to clean and visualize data)
-│   ├── clean.py    
-│   ├── calc.py
-│   ├── analyze.py
-│   └── plot.py     
+│   ├── colorbar_funcs.py    
+│   ├── data_funcs.py
+│   ├── dynamics_funcs.py
+│   └── stats_funcs.py     
 │
-├── environment.yml    <- File for reproducing the analysis environment
+├── gcm_analysis.yml    <- File for reproducing the analysis environment
 ```
 
 # Acknowledgements
