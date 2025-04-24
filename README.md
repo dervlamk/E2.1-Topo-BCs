@@ -31,7 +31,7 @@ Abstract: Overly-smooth topography in general circulation models (GCMs) underest
 ```
 
 # Acknowledgements
-This work is supported by NASA NIP Grant 80NSSC21K1735 awarded to J.W.B. Computing resources for data analysis were provided by the NASA High-End Computing (HEC) Program through the NASA Center for Climate Simulation (NCCS) at the Goddard Space Flight Center. Additional contributions by GSE were supported by the NASA Modeling, Analysis and Prediction Program and APAM-GISS Cooperative Agreement 80NSSC18M0133, as well as NASA Precipitation Measurement Missions grant 80NSSC22K0609. We thank Jingbo Wu, Reto Reudy, and Maxwell Kelley at NASA GISS for their assistance with the E2.1 simulations.
+This work is supported by NASA NIP Grant 80NSSC21K1735 awarded to J.W.B. Computing resources for data analysis were provided by the NASA High-End Computing (HEC) Program through the NASA Center for Climate Simulation (NCCS) at the Goddard Space Flight Center. Additional contributions by GSE were supported by the NASA Modeling, Analysis and Prediction Program and APAM-GISS Cooperative Agreement 80NSSC18M0133, as well as NASA Precipitation Measurement Missions grant 80NSSC22K0609. We thank Reto Reudy and Maxwell Kelley at NASA GISS for their assistance with the E2.1 simulations.
 
 
 _______
