@@ -36,5 +36,5 @@ This work is supported by NASA NIP Grant 80NSSC21K1735 awarded to J.W.B. Computi
 
 _______
 
-This repository template comes from @savannahferretti
+Repository template from @savannahferretti
 
