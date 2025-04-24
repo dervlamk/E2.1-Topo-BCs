@@ -5,7 +5,7 @@ by D. Meegan-Kumar1, G. Elsaesser2,3, D. S. Battisti4, C. M. Colose2,5, J. Wu2,6
 1Department of Earth System Science, University of California Irvine, Irvine, California, USA<br>
 2NASA Goddard Institute for Space Studies, New York, New York<br>
 3Department of Applied Physics and Mathematics, Columbia University, New York, New York<br>
-4Department of Atmospheric Science, University of Washington, Seattle, Washington, USA<br>
+4Department of Atmospheric Science, University of Washington, Seattle, Washington<br>
 5Autonomic Integra, LLC, New York, New York
 6Center for Climate Systems Research, The Earth Institute, Columbia University, New York, New York<br>
 7Lamont-Doherty Earth Observatory, Columbia University, Palisades, New York
